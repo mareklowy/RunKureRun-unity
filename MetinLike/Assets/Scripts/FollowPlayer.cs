@@ -1,18 +1,35 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FollowPlayer : MonoBehaviour {
-
-	public Transform player;
-	public Transform camera;
-
-	// Update is called once per frame
+ 
+	public Transform Player;
+	[SerializeField]
+	int MoveSpeed = 4;
+	[SerializeField]
+	int MaxDist = 10;
+	[SerializeField]
+	int MinDist = 5;
+ 
+ 
 	void Update()
 	{
-		Vector3 offset = new Vector3(0f, 1.81f, -2.02f);
-		camera.position = player.position + offset;
-		var cameraRotation = camera.rotation;
-		cameraRotation.y = player.rotation.y - 178.987f;
+		transform.LookAt(Player);
+ 
+		if (Vector3.Distance(transform.position, Player.position) >= MinDist)
+		{
+ 
+			transform.position += transform.forward * MoveSpeed * Time.deltaTime;
+ 
+ 
+ 
+			if (Vector3.Distance(transform.position, Player.position) <= MaxDist)
+			{
+				//Here Call any function U want Like Shoot at here or something
+			}
+ 
+		}
 	}
 }

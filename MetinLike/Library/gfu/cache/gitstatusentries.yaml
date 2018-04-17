@@ -1,0 +1,1367 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: c71a32b55077b0547868a298b68d21df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-04-17T10:29:15.6356850+02:00
+  initializedAtString: 2018-04-17T09:05:42.2092918+02:00
+  entries:
+  - path: MetinLike\Assembly-CSharp-Editor.csproj
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Assembly-CSharp.csproj
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Assets\Level0.unity
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Level0.unity
+    projectPath: Assets\Level0.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Assets\Scripts\FollowPlayer.cs
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Scripts\FollowPlayer.cs
+    projectPath: Assets\Scripts\FollowPlayer.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\CurrentMaximizeLayout.dwlt
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\InspectorExpandedItems.asset
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\assetDatabase3
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\metadata\cb\cbe87cb21f6db554ab53c4890fb51871
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\cb\cbe87cb21f6db554ab53c4890fb51871
+    projectPath: Library\metadata\cb\cbe87cb21f6db554ab53c4890fb51871
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: MetinLike\Assets\Level0.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Level0.meta
+    projectPath: Assets\Level0.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Level0\NavMesh.asset
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Level0\NavMesh.asset
+    projectPath: Assets\Level0\NavMesh.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Level0\NavMesh.asset.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Level0\NavMesh.asset.meta
+    projectPath: Assets\Level0\NavMesh.asset.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\CREDITS.txt
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\CREDITS.txt
+    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\EULA.txt
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\EULA.txt
+    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+    projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Resources.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Resources.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Prefabs\Enemy.prefab
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Prefabs\Enemy.prefab
+    projectPath: Assets\Prefabs\Enemy.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Prefabs\Enemy.prefab.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Prefabs\Enemy.prefab.meta
+    projectPath: Assets\Prefabs\Enemy.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Scripts\EnemyController.cs
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Scripts\EnemyController.cs
+    projectPath: Assets\Scripts\EnemyController.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Assets\Scripts\EnemyController.cs.meta
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Assets\Scripts\EnemyController.cs.meta
+    projectPath: Assets\Scripts\EnemyController.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\CrashedAssetImports.txt
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\CrashedAssetImports.txt
+    projectPath: Library\CrashedAssetImports.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\EditorInstance.json
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\2\2b119afcb99bb4bb349537a927143e10.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\2\2b119afcb99bb4bb349537a927143e10.bin
+    projectPath: Library\ShaderCache\2\2b119afcb99bb4bb349537a927143e10.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\9\9ef17b7089fe13696985e774aa2163b3.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\9\9ef17b7089fe13696985e774aa2163b3.bin
+    projectPath: Library\ShaderCache\9\9ef17b7089fe13696985e774aa2163b3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\a\a47c4eb38d375d18072d936e76ba5dcd.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\a\a47c4eb38d375d18072d936e76ba5dcd.bin
+    projectPath: Library\ShaderCache\a\a47c4eb38d375d18072d936e76ba5dcd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\a\a495490608d316fdd08057821eaad710.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\a\a495490608d316fdd08057821eaad710.bin
+    projectPath: Library\ShaderCache\a\a495490608d316fdd08057821eaad710.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\a\a67d7a43df83a6352cdc3f76c5391214.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\a\a67d7a43df83a6352cdc3f76c5391214.bin
+    projectPath: Library\ShaderCache\a\a67d7a43df83a6352cdc3f76c5391214.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\a\aa8e0f5a7788bcebd603594f2a4d7755.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\a\aa8e0f5a7788bcebd603594f2a4d7755.bin
+    projectPath: Library\ShaderCache\a\aa8e0f5a7788bcebd603594f2a4d7755.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\f\f6b85e513c9d0f6bfe83715068d422ab.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\f\f6b85e513c9d0f6bfe83715068d422ab.bin
+    projectPath: Library\ShaderCache\f\f6b85e513c9d0f6bfe83715068d422ab.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\ShaderCache\f\f78dc94f4c2f01ad946b39095479feea.bin
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\ShaderCache\f\f78dc94f4c2f01ad946b39095479feea.bin
+    projectPath: Library\ShaderCache\f\f78dc94f4c2f01ad946b39095479feea.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\gitlocks.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\gitlog.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\gituser.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\gfu\cache\repoinfo.yaml
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a
+    projectPath: Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a.info
+    projectPath: Library\metadata\03\034d6cec2d2ec5e46b418efa339b6e2a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79
+    projectPath: Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79.info
+    projectPath: Library\metadata\21\2193c0fc18d8ccd49bbef98830495d79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\60\60a1227411104214191240025ecd4996
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\60\60a1227411104214191240025ecd4996
+    projectPath: Library\metadata\60\60a1227411104214191240025ecd4996
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\60\60a1227411104214191240025ecd4996.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\60\60a1227411104214191240025ecd4996.info
+    projectPath: Library\metadata\60\60a1227411104214191240025ecd4996.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba
+    projectPath: Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba.info
+    projectPath: Library\metadata\6e\6eb3ae2cf3dd9ef49b22b70a6b258fba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227
+    projectPath: Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227.info
+    projectPath: Library\metadata\75\75bd0ef8648dbdb43aa697099e3fb227.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa
+    projectPath: Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa.info
+    projectPath: Library\metadata\bb\bbcec048abf4ce14cbc8c7d2966c47fa.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c7\c71a32b55077b0547868a298b68d21df
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c7\c71a32b55077b0547868a298b68d21df
+    projectPath: Library\metadata\c7\c71a32b55077b0547868a298b68d21df
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c7\c71a32b55077b0547868a298b68d21df.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c7\c71a32b55077b0547868a298b68d21df.info
+    projectPath: Library\metadata\c7\c71a32b55077b0547868a298b68d21df.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a
+    projectPath: Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a.info
+    projectPath: Library\metadata\ec\ec78369ab9d660842b20398531ddfc4a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp\ProcessJobs\e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\TarGZ\archtemp.tar
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityLockfile
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-1e208f9feb3dd004385c666eaeb791c2
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-1e208f9feb3dd004385c666eaeb791c2
+    projectPath: Temp\UnityTempFile-1e208f9feb3dd004385c666eaeb791c2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-441ce24975c2ef8499b5534523a69c9c
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-441ce24975c2ef8499b5534523a69c9c
+    projectPath: Temp\UnityTempFile-441ce24975c2ef8499b5534523a69c9c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-4803cdabe4e077b4aa3a69df8a992335
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-4803cdabe4e077b4aa3a69df8a992335
+    projectPath: Temp\UnityTempFile-4803cdabe4e077b4aa3a69df8a992335
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-493c543ab69ca874ab52848cf699130a
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-493c543ab69ca874ab52848cf699130a
+    projectPath: Temp\UnityTempFile-493c543ab69ca874ab52848cf699130a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-76c26ff9a380e0548948032e7a9b947a
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-76c26ff9a380e0548948032e7a9b947a
+    projectPath: Temp\UnityTempFile-76c26ff9a380e0548948032e7a9b947a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-a4a03e9227dcea349a356dc217d04eed
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-a4a03e9227dcea349a356dc217d04eed
+    projectPath: Temp\UnityTempFile-a4a03e9227dcea349a356dc217d04eed
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-b3e352276f6c0a7449bfbae55f7523b9
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-b3e352276f6c0a7449bfbae55f7523b9
+    projectPath: Temp\UnityTempFile-b3e352276f6c0a7449bfbae55f7523b9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-b4493211958dd5d499811270f422522e
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-b4493211958dd5d499811270f422522e
+    projectPath: Temp\UnityTempFile-b4493211958dd5d499811270f422522e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-bd3067cc6b25fb24297753ba9f6dbc6c
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-bd3067cc6b25fb24297753ba9f6dbc6c
+    projectPath: Temp\UnityTempFile-bd3067cc6b25fb24297753ba9f6dbc6c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-d099e0e8a71118f43b8f6171eb1ce695
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-d099e0e8a71118f43b8f6171eb1ce695
+    projectPath: Temp\UnityTempFile-d099e0e8a71118f43b8f6171eb1ce695
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-da9164576acf12541af122490037c593
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-da9164576acf12541af122490037c593
+    projectPath: Temp\UnityTempFile-da9164576acf12541af122490037c593
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-f005a1cdacaf6fa4aa2654e18d697676
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-f005a1cdacaf6fa4aa2654e18d697676
+    projectPath: Temp\UnityTempFile-f005a1cdacaf6fa4aa2654e18d697676
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\UnityTempFile-f2a14eaa3771843499bc003107b50833
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\UnityTempFile-f2a14eaa3771843499bc003107b50833
+    projectPath: Temp\UnityTempFile-f2a14eaa3771843499bc003107b50833
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: MetinLike\Temp\__Backupscenes\0.backup
+    fullPath: E:\src\sgm\SGM_CourseAssignment\MetinLike\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
