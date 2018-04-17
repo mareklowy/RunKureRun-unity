@@ -230,8 +230,6 @@
               <e p="ThirdPersonCharacter" t="Include">
                 <e p="Scripts" t="Include">
                   <e p="AICharacterControl.cs" t="Include" />
-                  <e p="ThirdPersonCharacter.cs" t="Include" />
-                  <e p="ThirdPersonUserControl.cs" t="Include" />
                 </e>
                 <e p="ThirdPersonCharacterGuidelines.txt" t="Include" />
               </e>
@@ -431,6 +429,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="FollowPlayer.cs" t="Include" />
+          <e p="ThirdPersonCharacter.cs" t="Include" />
+          <e p="ThirdPersonUserControl.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
