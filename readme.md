@@ -2,7 +2,7 @@
 
 >MAYDAY MAYDAY this is planet Earth calling space station KAJUL_17:  
 >  
->Evil space chickens have attached planet Earth. They are using advanced egg technology to bombard our home with asteroids from outer space.  
+>Evil space chickens have attacked planet Earth. They are using advanced egg technology to bombard our home with asteroids from outer space.  
 >We are broadcasting this message in hope that it will reach your station. You two are our greatest men, and our only hope.  
 >Go, find the evil chicken nest, and negotiate peace with their king rooster.  
 >Your journey will be gravely dangerous so we wish you all the luck.  
@@ -33,3 +33,7 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 ### Find at
 
 * [Youtube](https://www.youtube.com/watch?v=vNJnOfyhweo&t=11s) - GamePlay
+
+# Game by The Frangovers
+
+## @kajul17
