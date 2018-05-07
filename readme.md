@@ -35,7 +35,7 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 * [Youtube](https://www.youtube.com/) - GamePlay
   
 
-##Installing
+## Installing
 
 1. Download RunKureRun.zip
 2. Unzip file to location where you want to install game
