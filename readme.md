@@ -34,6 +34,13 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 
 * [Youtube](https://www.youtube.com/) - GamePlay
   
+
+##Installing
+
+1. Download RunKureRun.zip
+2. Unzip file to location where you want to install game
+3. Run RunKureRun.exe
+  
   
 
 # Game made by The Frangovers
