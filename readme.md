@@ -10,13 +10,15 @@ We leave strategy on you. Occasionally, players can encounter "super chickens", 
 
 ### Specials
 
-Bomb: Sent flying in front of player. Destroys first asteroid it hits. \n
+Bomb: Sent flying in front of player. Destroys first asteroid it hits.  
 Mine: Planted behind the player. When stepped on by opponent, it stops his movement for one second.
 
 ## Controls
 
-Player 1: W,A,S,D - Movement; LCtrl - Special
-Player 2: Arrow Keys - Movement; RCtrl - Special
+```
+Player 1: W,A,S,D - Movement; LCtrl - Special  
+Player 2: Arrow Keys - Movement; RCtrl - Special  
+```
 
 ### Find at
 
