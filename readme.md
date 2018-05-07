@@ -7,7 +7,8 @@
 >Go, find the evil chicken nest, and negotiate peace with their king rooster.  
 >Your journey will be gravely dangerous so we wish you all the luck.  
 >  
->P.S. Our best scientists have found out that when the evil chickens come in contact with human flesh, they explode and leave their superpowers behind for us to collect... 
+>P.S. Our best scientists have found out that when the evil chickens come in contact with human flesh, they explode and leave their superpowers behind for you to collect... 
+>P.P.S. I know you don't get along well, so we will reward 5 billion dollars to the first of you who will finish the mission.
 
 ## Description
 
