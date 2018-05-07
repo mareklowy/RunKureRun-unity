@@ -37,4 +37,4 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 # Game by The Frangovers
 ## Collaborators
 
-@kajul17
+* [kajul17](https://github.com/kajul17) - Karolina Beliharova
