@@ -33,8 +33,12 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 ### Find at
 
 * [Youtube](https://www.youtube.com/watch?v=vNJnOfyhweo&t=11s) - GamePlay
+  
+##
+  
 
 # Game by The Frangovers
-## Collaborators
+## Authors
 
-* [kajul17](https://github.com/kajul17) - Karolina Beliharova
+* [Marek Lowy](https://github.com/mareklowy)  
+* [Karolina Beliharova](https://github.com/kajul17)
