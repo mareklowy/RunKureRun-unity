@@ -32,7 +32,7 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 
 ### Find at
 
-* [Youtube](https://www.youtube.com/watch?v=vNJnOfyhweo&t=11s) - GamePlay
+* [Youtube](https://www.youtube.com/) - GamePlay
   
   
 
