@@ -1,5 +1,6 @@
 # Project RunKuřeRun
 
+```
 MAYDAY MAYDAY this is planet Earth calling space station KAJUL_17:  
   
 Evil space chickens have attached planet Earth. They are using advanced egg technology to bombard our home with asteroids from outer space.  
@@ -8,6 +9,7 @@ Go, find the evil chicken nest, and negotiate peace with their king rooster.
 Your journey will be gravely dangerous so we wish you all the luck.  
   
 P.S. Our best scientists have found out that when the evil chickens come in contact with human flesh, they explode and leave their superpowers behind for us to collect... 
+```
 
 ## Description
 
