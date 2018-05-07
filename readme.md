@@ -1,5 +1,13 @@
 # Project RunKuřeRun
 
+MAYDAY MAYDAY this is planet Earth calling space station KAJUL_17:  
+Evil space chickens have attached planet Earth. They are using advanced egg technology to bombard our home with asteroids from outer space.  
+We are broadcasting this message in hope that it will reach your station. You two are our greatest men, and our only hope.  
+Go, find the evil chicken nest, and negotiate peace with their king rooster.  
+Your journey will be gravely dangerous so we wish you all the luck.  
+  
+P.S. Our best scientists have found out that when the evil chickens come in contact with human flesh, they explode and leave their superpowers behind for us to collect... 
+
 ## Description
 
 RunKuřeRun is classical racing game for 1 or 2 players. Players have to run and avoid obstacles. 
@@ -16,7 +24,7 @@ Mine: Planted behind the player. When stepped on by opponent, it stops his movem
 ## Controls
 
 ```
-Player 1: W,A,S,D - Movement; LCtrl - Special  
+Player 1: W,A,S,D - Movement; Space - Special  
 Player 2: Arrow Keys - Movement; RCtrl - Special  
 ```
 
