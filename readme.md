@@ -35,5 +35,6 @@ Player 2: Arrow Keys - Movement; RCtrl - Special
 * [Youtube](https://www.youtube.com/watch?v=vNJnOfyhweo&t=11s) - GamePlay
 
 # Game by The Frangovers
+## Collaborators
 
-## @kajul17
+@kajul17
