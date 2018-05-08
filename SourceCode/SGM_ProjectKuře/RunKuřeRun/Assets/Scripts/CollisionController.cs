@@ -4,16 +4,19 @@ using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]
 public class CollisionController : MonoBehaviour {
+   
     private Rigidbody _rb;
     private PlayerControls _pc;
     private AudioSource _aus;
-
+    private float _normalSpeed;
+    
     [SerializeField] private float _speedSlowDown;
 
     // Use this for initialization
     void Start() {
         _rb = GetComponent<Rigidbody>();
         _pc = GetComponent<PlayerControls>();
+        _normalSpeed = _pc._speedIncrement;
         _aus = GetComponent<AudioSource>();
     }
 
@@ -28,11 +31,11 @@ public class CollisionController : MonoBehaviour {
     }
 
     IEnumerator SlowDown() {
-        yield return null;
-        float speed = _pc._speedIncrement;
         _pc._speedIncrement = _speedSlowDown;
+        print("Starting");
         yield return new WaitForSeconds(3);
-        _pc._speedIncrement = speed;
+        print("Ended");
+        _pc._speedIncrement = _normalSpeed;
     }
 
     // Update is called once per frame
